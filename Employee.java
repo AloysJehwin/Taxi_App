@@ -1,7 +1,6 @@
-import java.util.*;
-import java.util.stream.Collectors;
 
 class Employee {
+
     String name, designation, department, reportingTo;
     int age;
 
